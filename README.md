@@ -1,4 +1,4 @@
-# java_21-09-21_assignment
+## java_21-09-21_assignment
 
 
 Q1. pyramid pattern in java
